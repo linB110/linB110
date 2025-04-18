@@ -30,7 +30,7 @@
 - Graduate Program in Electrical Control Engineering  
 
 📚 Currently Learning
-- Mobile Robotics  
+- Mobile Robot
 - Machine Learning  
 - Visual SLAM
 
