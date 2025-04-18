@@ -13,27 +13,38 @@
 
 ---
 
-### 🛠️ Skills
+### 💼 Work Experience
 
-> 🚧 **Work in Progress**  
-Feel free to update this section with your programming languages, tools, frameworks, or robotic platforms.
+- **R&D Robotics Software Engineer** @ ITRI (Industrial Technology Research Institute)  
+  🗓️ July 2024 ~ Dec 2024 ・ 🧑‍💻 Full-Time
 
 ---
 
 ### 📚 Currently Learning
-
-> 🚀 **To Be Filled**  
-You can list technologies you're currently exploring (e.g., ROS, C++, AI, embedded systems...).
+ 
+- Mobile Robotics  
+- Machine Learning  
+- Visual SLAM  
 
 ---
 
-### ⚙️ GitHub Stats
+### 🧪 Research Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linB110&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linB110&theme=radical&hide_border=true" />
-</p>
+- 🔬 *[Add your research title or project name]*  
+  🏫 Under [Lab/Professor Name], NYCU  
+  🧠 Focused on [e.g., Reinforcement Learning, Path Planning, etc.]
+
+---
+
+### 💡 Projects
+
+- 🤖 **[Project Name]**  
+  Brief description of what it does, your contribution, and technologies used.
+
+- 📸 **[Another Project]**  
+  e.g., Visual SLAM + YOLO object detection integration project.
+
+<!-- Add GitHub links if available -->
 
 ---
 
@@ -52,4 +63,3 @@ You can list technologies you're currently exploring (e.g., ROS, C++, AI, embedd
 ---
 
 > ⚡ *"The best way to predict the future is to build it."*
-
