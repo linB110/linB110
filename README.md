@@ -13,14 +13,6 @@
 
 ---
 
-### 💼 Work Experience
-
-- **R&D Robotics Software Engineer** @ ITRI (Industrial Technology Research Institute) 🤖
-  
-  🗓️ July 2024 ~ Dec 2024 ・ Full-Time
-
----
-
 ### 📚 Currently Learning
  
 - Mobile Robotics  
@@ -44,6 +36,14 @@
 
 ---
 
+### 💼 Work Experience
+
+- **R&D Robotics Software Engineer** @ ITRI (Industrial Technology Research Institute) 🤖
+  
+  🗓️ July 2024 ~ Dec 2024 ・ Full-Time
+
+---
+
 ### 🧭 Connect With Me
 
 <p align="center">
@@ -53,7 +53,9 @@
   <a href="https://github.com/linB110">
     <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add LinkedIn / Website here if you have -->
+  <a href="https://www.linkedin.com/in/LinHuangTing">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
