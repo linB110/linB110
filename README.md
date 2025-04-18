@@ -16,6 +16,7 @@
 ### 💼 Work Experience
 
 - **R&D Robotics Software Engineer** @ ITRI (Industrial Technology Research Institute) 🤖
+  
   🗓️ July 2024 ~ Dec 2024 ・ Full-Time
 
 ---
