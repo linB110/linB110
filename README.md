@@ -4,12 +4,13 @@
 <h3 align="center">Master Student @ NYCU - Electrical Control Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F0FF&center=true&vCenter=true&width=550&lines=Engineering+Tomorrow+with+Robotics+and+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F0FF&center=true&vCenter=true&width=520&lines=Lin+Huang+Ting" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F0FF&center=true&vCenter=true&width=550&lines=Master+Student+%40+NYCU+Electrical+Control+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F0FF&center=true&vCenter=true&width=520&lines=Master+Student+in+Electrical+Control+Engineering+@+NYCU" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F0FF&center=true&vCenter=true&width=550&lines=Lin+Huang+Ting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F0FF&center=true&vCenter=true&width=520&lines=Robotics+%7C+SLAM+%7C+AI+%7C+ML" />
 </p>
+
 
 
 
