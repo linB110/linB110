@@ -1,10 +1,10 @@
 # LinHuangTing
 
-<h1 align="center">🤖 Lin Huang Ting</h1>
+<h1 align="center"> Lin Huang Ting</h1>
 <h3 align="center">Master Student @ NYCU - Electrical Control Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F0FF&center=true&vCenter=true&width=440&lines=Hi+!+I+am+Lin+Huang+Ting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F0FF&center=true&vCenter=true&width=440&lines=Hi!+I+am+Lin+Huang+Ting" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F0FF&center=true&vCenter=true&width=440&lines=A+Master+Student+%40+NYCU" />
   <br/>
@@ -15,8 +15,8 @@
 
 ### 💼 Work Experience
 
-- **R&D Robotics Software Engineer** @ ITRI (Industrial Technology Research Institute)  
-  🗓️ July 2024 ~ Dec 2024 ・ 🧑‍💻 Full-Time
+- **R&D Robotics Software Engineer** @ ITRI (Industrial Technology Research Institute) 🤖
+  🗓️ July 2024 ~ Dec 2024 ・ Full-Time
 
 ---
 
@@ -30,8 +30,8 @@
 
 ### 🧪 Research Experience
 
-- 🔬 *[Add your research title or project name]*  
-  🏫 Under [Lab/Professor Name], NYCU  
+- 🔬 *Electrical Circuit Implementation*  
+  🏫 Under [Lab/Professor Name], NTUST  
   🧠 Focused on [e.g., Reinforcement Learning, Path Planning, etc.]
 
 ---
