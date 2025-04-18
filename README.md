@@ -13,26 +13,24 @@
 
 ---
 
-### Education 🎓
+### 🎓 Education
 
-| National Taiwan University of Science and Technology (NTUST) |
-|--------------------------------------------------------------|
-- Bachelor's Degree in Mechanical Engineering
-- Gradute at First place (GPA 4.19/4.3)
+**National Taiwan University of Science and Technology (NTUST)**  
+- Bachelor's Degree in Mechanical Engineering  
+- Graduated 1st place (GPA: 4.19 / 4.3)
 
-| National University of Singapore (NUS)          |
-|-------------------------------------------------|
-- Exchange Student (Jan 2025 ~ May 2025)  
-- Exchange in Electrical Engineering and Computer Science
-- 
-| National Yang Ming Chiao Tung University (NYCU) |
-|-------------------------------------------------|
-- Studying in Electrical Control Engineering
+**National University of Singapore (NUS)**  
+- Exchange Student *(Jan 2025 – May 2025)*  
+- Department of Electrical Engineering and Computer Science 
 
- 📚 Currently Learning 
+**National Yang Ming Chiao Tung University (NYCU)**  
+- Graduate Program in Electrical Control Engineering  
+
+📚 Currently Learning
 - Mobile Robotics  
 - Machine Learning  
-- Visual SLAM  
+- Visual SLAM
+
 
 ---
 
