@@ -13,6 +13,22 @@
 
 ---
 
+### Education 🎓
+
+| National Yang Ming Chiao Tung University (NYCU) |
+|-------------------------------------------------|
+- Studying in Electrical Control Engineering
+
+| National University of Singapore (NUS)          |
+|-------------------------------------------------|
+- Exchange Student (Jan 2025 ~ May 2025)  
+- Exchange in Electrical Engineering and Computer Science
+
+| National Taiwan University of Science and Technology (NTUST) |
+|--------------------------------------------------------------|
+- Bachelor's Degree in Mechanical Engineering
+
+
 ### 📚 Currently Learning
  
 - Mobile Robotics  
