@@ -36,14 +36,18 @@
   🗓️ Mar 2023 ~  July 2023 
 - 🔬 *Computer Vision and Robotic Arm with Deep Learning Model*
 
-  🗓️ June 2023 ~ June 2024 
+  🗓️ June 2023 ~ June 2024
+
+- 🔬 *Visual SLAM and Sensor Fusion*
+
+  🗓️ Apr 2025 ~ 
 
 ---
 
 ### 🧭 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:a0905266518@gmail.com">
     <img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/linB110">
