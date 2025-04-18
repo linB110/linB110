@@ -21,7 +21,7 @@
 
 **National University of Singapore (NUS)**  
 - Exchange Student *(Jan 2025 – May 2025)*  
-- Department of Electrical Engineering and Computer Science 
+- Department of Electrical Engineering and School of Computing
 
 **National Yang Ming Chiao Tung University (NYCU)**  
 - Graduate Program in Electrical Control Engineering  
