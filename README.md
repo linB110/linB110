@@ -31,21 +31,12 @@
 
 ### 🧪 Research Experience
 
-- 🔬 *Electrical Circuit Implementation*  
-  🏫 Under [Lab/Professor Name], NTUST  
-  🧠 Focused on [e.g., Reinforcement Learning, Path Planning, etc.]
+- 🔬 *Electrical Circuit Implementation*
 
----
+  🗓️ Mar 2023 ~  July 2023 
+- 🔬 *Computer Vision and Robotic Arm with Deep Learning Model*
 
-### 💡 Projects
-
-- 🤖 **[Project Name]**  
-  Brief description of what it does, your contribution, and technologies used.
-
-- 📸 **[Another Project]**  
-  e.g., Visual SLAM + YOLO object detection integration project.
-
-<!-- Add GitHub links if available -->
+  🗓️ June 2023 ~ June 2024 
 
 ---
 
