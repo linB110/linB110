@@ -50,11 +50,6 @@
 
   🗓️ Apr 2025 ~
 
-
-![Exhibition Showcase](./Exhibition.jpg)
-
-
-
 ---
 
 ### 💼 Work Experience
