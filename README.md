@@ -51,7 +51,8 @@
   🗓️ Apr 2025 ~
 
 
-<img src="./Circuit.png" width="250"/>
+![圖片說明](https://github.com/linB110/LinHuangTing/blob/main/Exhibition.jpg?raw=true)
+
 
 ---
 
