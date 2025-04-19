@@ -50,7 +50,6 @@
 
   🗓️ Apr 2025 ~
 
-  ![Uploading image.png…]()
 
 
 ---
