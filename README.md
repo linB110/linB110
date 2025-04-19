@@ -51,7 +51,9 @@
   🗓️ Apr 2025 ~
 
 
-![圖片說明](https://github.com/linB110/LinHuangTing/blob/main/Exhibition.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/linB110/LinHuangTing/blob/main/Exhibition.jpg?raw=true" width="400" alt="Exhibition Showcase" />
+</p>
 
 
 ---
