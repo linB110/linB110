@@ -20,7 +20,7 @@
 
 **National Taiwan University of Science and Technology (NTUST)**  
 - Bachelor's Degree in Mechanical Engineering  
-- Graduated 1st place (GPA: 4.19 / 4.3)
+- Graduated at 1st place (GPA: 4.19 / 4.3)
 
 **National University of Singapore (NUS)**  
 - Exchange Student *(Jan 2025 – May 2025)*  
@@ -39,7 +39,7 @@
 
 ### 🧪 Research Experience
 
-- 🔬 *Electrical Circuit Implementation*
+- 🔬 *Electronic Circuit*
 
   🗓️ Mar 2023 ~  July 2023 
 - 🔬 *Computer Vision and Robotic Arm with Deep Learning Model*
@@ -48,7 +48,10 @@
 
 - 🔬 *Visual SLAM and Sensor Fusion*
 
-  🗓️ Apr 2025 ~ 
+  🗓️ Apr 2025 ~
+
+  ![Uploading image.png…]()
+
 
 ---
 
