@@ -51,6 +51,7 @@
   🗓️ Apr 2025 ~
 
 
+<img src="./Circuit.jpg" width="250"/>
 
 ---
 
