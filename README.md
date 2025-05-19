@@ -47,6 +47,10 @@
 
   🗓️ June 2023 ~ June 2024
 
+- 🔬 *STM32 ARM structure*
+
+  🗓️ Jan 2025 ~ Apr 2025
+
 - 🔬 *Visual SLAM and Sensor Fusion*
 
   🗓️ Apr 2025 ~
