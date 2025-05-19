@@ -21,7 +21,7 @@
 **National Taiwan University of Science and Technology (NTUST)**  
 - Bachelor's Degree in Mechanical Engineering  
 - Graduated at 1st place (GPA: 4.2 / 4.3)
-- The Phi Tau Phi Scholastic Honor Society
+- Member of the Phi Tau Phi Scholastic Honor Society
 
 **National University of Singapore (NUS)**  
 - Exchange Student *(Jan 2025 – May 2025)*  
