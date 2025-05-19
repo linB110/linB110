@@ -64,7 +64,8 @@
   🗓️ July 2024 ~ Dec 2024 ・ Full-Time
   
 - **R&D Robotics Software Engineer** @ Holon Robotics 🤖
-  🗓️ May 2025 
+- 
+  🗓️ May 2025 ~
 ---
 
 ### 🧭 Connect With Me
