@@ -12,8 +12,6 @@
 
 
 
-
-
 ---
 
 ### 🎓 Education
@@ -21,6 +19,8 @@
 **National Taiwan University of Science and Technology (NTUST)**  
 - Bachelor's Degree in Mechanical Engineering  
 - Graduated at 1st place (GPA: 4.2 / 4.3)
+- 2023 Excellent youth in Engineering faculty
+- 6× Presidential Award recipient
 - Member of the Phi Tau Phi Scholastic Honor Society
 
 **National University of Singapore (NUS)**  
@@ -68,6 +68,14 @@
   🗓️ May 2025 ~
 ---
 
+### 🧠 Languages & Tools
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
 ### 🧭 Connect With Me
 
 <p align="center">
