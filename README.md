@@ -1,4 +1,3 @@
-# LinHuangTing
 
 <h1 align="center"> Lin Huang Ting</h1>
 <h3 align="center">Master Student @ NYCU - Electrical Control Engineering</h3>
