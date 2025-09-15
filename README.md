@@ -18,7 +18,7 @@
 
 **National Taiwan University of Science and Technology (NTUST)**  
 - Bachelor's Degree in Mechanical Engineering  
-- Graduated at 1st place (GPA: 4.2 / 4.3)
+- Graduated at 1st place (GPA: 4.19 / 4.3)
 - 2023 Excellent youth in Engineering faculty
 - 6× Presidential Award recipient
 - Member of the Phi Tau Phi Scholastic Honor Society
@@ -61,11 +61,11 @@
 
 - **R&D Robotics Software Engineer** @ ITRI (Industrial Technology Research Institute) 🤖
   
-  🗓️ July 2024 ~ Dec 2024 ・ Full-Time
+  🗓️ July 2024 ~ Dec 2024
   
 - **R&D Robotics Software Engineer** @ Holon Robotics 🤖
 - 
-  🗓️ May 2025 ~
+  🗓️ May 2025 ~ Aug 2025
 ---
 
 ## 📊 GitHub Language Stats
