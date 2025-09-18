@@ -70,7 +70,8 @@
 
 ## 📊 GitHub Language Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linB110&layout=compact&hide_title=true&langs_count=5&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linB110&layout=compact&hide_title=true&langs_count=5&theme=tokyonight) &cache_seconds=86400
+
 
 ---
 ### 🧭 Connect With Me
